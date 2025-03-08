@@ -10,7 +10,7 @@ Data Pipeline Process:
 
 4. Data Analysis with Pandas: I used Pandas to further process and structure the data, applying functions to identify and display the most commonly used programming languages.
 
-5. Data Visualization: After cleaning and analyzing the data, I used matplotlib to create a bar chart. This chart helped to visually represent which programming languages were most commonly used according to the survey.
+5. Data Visualization: After cleaning and analyzing the data, I used matplotlib to create a bar chart, pie chart. This chart helped to visually represent which programming languages were most commonly used according to the survey.
 
 6. Data Splits: Throughout the process, I ensured that the data was split correctly (by semicolon) to maintain the integrity of each language response.
 
